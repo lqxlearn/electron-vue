@@ -22,3 +22,12 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### development
+```
+npm run electron:serve
+```
+### production 
+```
+npm run electron:build
+```
